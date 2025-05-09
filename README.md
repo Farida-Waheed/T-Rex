@@ -124,9 +124,4 @@ The player can trigger a jump in-game by simply changing the ambient light — l
 
 By blending sensor input with a virtual game, this project turns a traditional keyboard-based experience into a **physical, interactive adventure**. It showcases the possibilities of combining embedded systems with gamification for a **multi-sensory** experience.
 
----
-
-## 📜 License
-
-This project is for academic and educational purposes only, under Benha University supervision.
 
