@@ -15,7 +15,7 @@ An innovative enhancement to the classic **T-Rex running game** that incorporate
 ## 👩‍💻 Team Members
 
 * Mohamed Ahmed Mohamed Hassan  
-* Farida Waheed Abd El Bary 
+* Farida Waheed Abdelbary 
 * Raneem Ahmed Refaat
 * Razan Ahmed Fawzy 
 
